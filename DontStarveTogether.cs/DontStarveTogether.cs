@@ -12,7 +12,7 @@ using System.Net;
 
 namespace WindowsGSM.Plugins
 {
-    public class DST : SteamCMDAgent // SteamCMDAgent is used because DST relies on SteamCMD for installation and update process
+    public class DontStarveTogether : SteamCMDAgent // SteamCMDAgent is used because DST relies on SteamCMD for installation and update process
     {
         // - Plugin Details
         public Plugin Plugin = new Plugin
@@ -27,7 +27,7 @@ namespace WindowsGSM.Plugins
 
 
         // - Standard Constructor and properties
-        public DST(ServerConfig serverData) : base(serverData) => base.serverData = _serverData = serverData;
+        public DontStarveTogether(ServerConfig serverData) : base(serverData) => base.serverData = _serverData = serverData;
         private readonly ServerConfig _serverData; // Store server start metadata, such as start ip, port, start param, etc
 
 
