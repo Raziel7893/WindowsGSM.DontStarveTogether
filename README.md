@@ -18,5 +18,16 @@ You will also need to drop in your [cluster_token.txt](https://nodecraft.com/sup
 
 [Cluster.ini and Server.ini options](https://forums.kleientertainment.com/forums/topic/64552-dedicated-server-settings-guide/)
 
+### Support
+[WGSM](https://discord.com/channels/590590698907107340/645730252672335893)
+
+### Give Love!
+[Buy me a coffee](https://ko-fi.com/raziel7893)
+
+[Paypal](https://paypal.me/raziel7893)
+
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Kickbut101/WindowsGSM.DontStarveTogether/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/raziel7893/WindowsGSM.Smalland/blob/main/LICENSE">LICENSE.md</a> file for details
+
+### Thanks
+Thanks to Kickbut101 for the Plugin, but he signaled that he don't want to support it anymore, so this fork is the main now.
