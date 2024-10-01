@@ -21,7 +21,7 @@ You will also need to drop in your [cluster_token.txt](https://nodecraft.com/sup
 ### Support
 [WGSM](https://discord.com/channels/590590698907107340/645730252672335893)
 
-### Give Love!
+## Give Love!
 [Buy me a coffee](https://ko-fi.com/raziel7893)
 
 [Paypal](https://paypal.me/raziel7893)
